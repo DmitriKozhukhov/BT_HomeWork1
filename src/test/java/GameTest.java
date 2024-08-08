@@ -18,4 +18,6 @@ public class GameTest {
         doors.add(door2);
         doors.add(door3);
     }
+
+    //А где сами тесты???
 }
